@@ -11,5 +11,6 @@ Un blog increíble para el [curso de git y github]
 - Trucos muy locos del profesor
 - Las personalidades multiples de Freddy
 - Creado por Kari
+- Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo, si llegas acá NO TE LLO TOMES EN SERIO y mejor ve al curso.
